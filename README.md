@@ -4,7 +4,11 @@
 
 <h1 align="center"> Vamos nos Conectar?</h1> 
 <h2 align="center"> Precisa de uma parceria,quer trocar ideias ou trabanhar em projetos incriveis? Marque um horario comigo:</h2>
-(https://img.shields.io/badge/whatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[(https://wa.me/5569992966260?text=o1%C3%A1%2C+vim+pelo+GitHub%21)
+
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5569992966260?text=Ol%C3%A1%2C+vim+pelo+GitHub%21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@unaibsonsevino)
+
 
 
     
