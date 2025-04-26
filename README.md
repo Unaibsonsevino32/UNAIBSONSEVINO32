@@ -4,7 +4,7 @@
 
 <h1 align="center"> Vamos nos Conectar?</h1> 
 <h2 align="center"> Precisa de uma parceria,quer trocar ideias ou trabanhar em projetos incriveis? Marque um horario comigo:</h2>
-[![Whatsapp](https://img.shields.io/badge/whatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[(https://wa.me/5569992966260?text=o1%C3%A1%2C+vim+pelo+GitHub%21)
+(https://img.shields.io/badge/whatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[(https://wa.me/5569992966260?text=o1%C3%A1%2C+vim+pelo+GitHub%21)
 
 
     
